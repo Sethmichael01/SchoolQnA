@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\bin\Debug\UJ Q&A.exe
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\bin\Debug\UJ Q&A.pdb
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ_Q_A.MainForm.resources
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ Q&A.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ Q&A.exe
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ Q&A.pdb
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ_Q_A.HomePage.resources
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ_Q_A.GST101.resources
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ Q&A.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\UJ Q&A\UJ Q&A\obj\Debug\UJ_Q_A.Properties.CSC102.resources
